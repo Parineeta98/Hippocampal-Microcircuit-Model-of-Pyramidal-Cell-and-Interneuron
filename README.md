@@ -12,4 +12,4 @@ The files here include:
 1. The complete microcircuit model named FF_Circuit
 2. Individual cell models named FN_Int and FN_PC
 3. Data analysis files for both dendritic and somatic inhibiton
-4. A MATLAB-Python converted script to change the sampling rate of the input of input current
+4. A MATLAB to Python converted script to change the sampling rate of the input of input current
